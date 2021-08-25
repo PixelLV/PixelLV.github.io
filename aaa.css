@@ -1,0 +1,20 @@
+.galva {
+    padding: 30px;
+    text-align: center;
+    background: rgb(185, 183, 183);
+    color: white;
+    font-size: 30px;
+}
+body {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(178, 182, 240);
+    font-family: "verdana";
+}
+.kaja {
+    padding-bottom: 15px;
+    text-align: center;
+    background: rgb(185, 183, 183);
+    color: white;
+    font-size: 12px;
+}
